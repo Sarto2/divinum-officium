@@ -1,43 +1,43 @@
-106:1 (alleluia) confitemini Domino quoniam bonus quoniam in saeculum misericordia eius
-106:2 dicant qui redempti sunt a Domino quos redemit de manu inimici de regionibus congregavit eos
-106:3 a solis ortu et occasu et ab aquilone et mari
-106:4 erraverunt in solitudine in inaquoso viam civitatis habitaculi non invenerunt
-106:5 esurientes et sitientes anima eorum in ipsis defecit
-106:6 et clamaverunt ad Dominum cum tribularentur et de necessitatibus eorum eripuit eos
-106:7 et deduxit eos in viam rectam ut irent in civitatem habitationis
-106:8 confiteantur Domino misericordiae eius et mirabilia eius filiis hominum
-106:9 quia satiavit animam inanem et animam esurientem satiavit bonis
-106:10 sedentes in tenebris et umbra mortis vinctos in mendicitate et ferro
-106:11 quia exacerbaverunt eloquia Dei et consilium Altissimi inritaverunt
-106:12 et humiliatum est in laboribus cor eorum infirmati sunt nec fuit qui adiuvaret
-106:13 et clamaverunt ad Dominum cum tribularentur et de necessitatibus eorum liberavit eos
-106:14 et eduxit eos de tenebris et umbra mortis et vincula eorum disrupit
-106:15 confiteantur Domino misericordiae eius et mirabilia eius filiis hominum
-106:16 quia contrivit portas aereas et vectes ferreos confregit
-106:17 suscepit eos de via iniquitatis eorum propter iniustitias enim suas humiliati sunt
-106:18 omnem escam abominata est anima eorum et adpropinquaverunt usque ad portas mortis
-106:19 et clamaverunt ad Dominum cum tribularentur et de necessitatibus eorum liberavit eos
-106:20 misit verbum suum et sanavit eos et eripuit eos de interitionibus eorum
-106:21 confiteantur Domino misericordiae eius et mirabilia eius filiis hominum
-106:22 et sacrificent sacrificium laudis et adnuntient opera eius in exsultatione
-106:23 qui descendunt mare in navibus facientes operationem in aquis multis
-106:24 ipsi viderunt opera Domini et mirabilia eius in profundo
-106:25 dixit et stetit spiritus procellae et exaltati sunt fluctus eius
-106:26 ascendunt usque ad caelos et descendunt usque ad abyssos anima eorum in malis tabescebat
-106:27 turbati sunt et moti sunt sicut ebrius et omnis sapientia eorum devorata est
-106:28 et clamaverunt ad Dominum cum tribularentur et de necessitatibus eorum eduxit eos
-106:29 et statuit procellam eius; in auram et siluerunt fluctus eius
-106:30 et laetati sunt quia siluerunt et deduxit eos in portum voluntatis eorum
-106:31 confiteantur Domino misericordiae eius et mirabilia eius filiis hominum
-106:32 exaltent eum in ecclesia plebis et in cathedra seniorum laudent eum
-106:33 posuit flumina in desertum et exitus aquarum in sitim
-106:34 terram fructiferam in salsuginem a malitia inhabitantium in ea
-106:35 posuit desertum in stagna aquarum et terram sine aqua in exitus aquarum
-106:36 et conlocavit illic esurientes et constituerunt civitatem habitationis
-106:37 et seminaverunt agros et plantaverunt vineas et fecerunt fructum nativitatis
-106:38 et benedixit eis et multiplicati sunt nimis et iumenta eorum non minoravit
-106:39 et pauci facti sunt et vexati sunt a tribulatione malorum et dolore
-106:40 effusa est contemptio super principes et errare fecit eos in invio et non in via
-106:41 et adiuvit pauperem de inopia et posuit sicut oves familias
-106:42 videbunt recti et laetabuntur et omnis iniquitas oppilabit os suum
-106:43 quis sapiens et custodiet haec et intellegent misericordias Domini
+106:1 (Halleluja!) Lobsinget dem Herrn, denn er ist gütig, denn seine Gnade währt in Ewigkeit!
+106:2 So sollen sie von dem Herrn Erlösten sprechen, die er aus der Hand des Feindes erlöst und aus den Ländern gesammelt hat,
+106:3 vom Aufgang und vom Niedergang der Sonne, von Mitternacht her und vom Meer.
+106:4 Sie gingen irre in wasserloser Öde, den Weg zu einer bewohnbaren Stadt fanden sie nicht.
+106:5 Sie litten Hunger und Durst und ihre Seele verschmachtete in ihnen.
+106:6 Da riefen sie zum Herrn in ihrer Not und er rettete sie aus ihren Ängsten
+106:7 und führte sie auf rechtem Wege, dass sie zu einer Stadt gelangten, wo sie wohnen konnten.
+106:8 Sie mögen den Herrn preisen für seine Erbarmungen und für seine Wunder an den Menschenkindern,
+106:9 dass er die lechzende Seele gesättigt, die hungernde Seele mit Gütern erfüllt hat.
+106:10 Sie saßen in Finsternis und Todesschatten, in Elend und Eisen gefangen,
+106:11 weil sie Gottes Worten widerstrebt und den Ratschluss des Allerhöchsten verworfen hatten.
+106:12 Und ihr Herz ward gebeugt durch Mühsal, sie wurden kraftlos und niemand half.
+106:13 Da riefen sie zu dem Herrn in ihrer Not und er rettete sie aus ihren Ängsten.
+106:14 Er führte sie heraus aus Finsternis und Todesschatten und brach ihre Fesseln.
+106:15 Sie mögen den Herrn preisen für seine Erbarmungen und für seine Wunder an den Menschenkindern,
+106:16 denn er zerbrach die ehernen Tore und zerschlug die eisernen Riegel.
+106:17 er nahm sie auf vom Wege ihrer Sünde, denn um ihrer Missetaten willen waren sie gedemütigt.
+106:18 Jegliche Speise verabscheute ihre Seele und sie waren schon nahe den Pforten des Todes.
+106:19 Da riefen sie zum Herrn in ihrer Not und er rettete sie aus ihren Ängsten.
+106:20 Er entsandte sein Wort und heilte sie und entriss sie ihrem Untergange.
+106:21 Sie mögen den Herrn preisen für seine Erbarmungen und für seine Wunder an den Menschenkindern
+106:22 und mögen Lobopfer darbringen und seine Werke mit Frohlocken verkünden.
+106:23 Die auf Schiffen das Meer befuhren, auf großen Wassern Handel trieben,
+106:24 sie schauten die Werke des Herrn und seine Wunder in der Tiefe.
+106:25 Er gebot und ein Sturmwind erhob sich und seine Fluten türmten sich auf.
+106:26 Sie stiegen bis zum Himmel empor und sanken hinab bis in den Abgrund, ihre Seele verzagte im Unglück.
+106:27 Sie taumelten und wankten gleich Trunkenen und all ihre Weisheit war verschlungen.
+106:28 Da riefen sie zu dem Herrn in ihrer Not und er half ihnen aus ihren Ängsten.
+106:29 Er wandelte den Sturmwind in sanftes Säuseln und seine Wellen wurden still.
+106:30 Da freuten sie sich, dass jene sich legten, und er führte sie zum Hafen ihrer Sehnsucht.
+106:31 Sie mögen den Herrn preisen für seine Erbarmungen und für seine Wunder an den Menschenkindern
+106:32 und ihn hocherheben in der Versammlung des Volkes und im Rate der Ältesten ihn loben!
+106:33 Er wandelte Ströme zu Wüsten und Wasserquellen in durstiges Land,
+106:34 fruchtbares Land zur salzigen Steppe um der Bosheit der Bewohner willen.
+106:35 Er machte die Wüste zu Wasserseen und dürres Land zu Quellorten.
+106:36 Und er ließ dort die Hungrigen wohnen und sie gründeten sich eine Stadt zum Wohnsitze.
+106:37 Sie besäten Felder und pflanzten Weinberge und gewannen die Frucht des Ertrages.
+106:38 Und er segnete sie, dass sie sich überaus vermehrten, und er gab ihnen Vieh in nicht geringer Menge.
+106:39 Sie wurden wenige und durch Drangsal des Unglücks und Schmerz heimgesucht.
+106:40 Verachtung ward über die Fürsten ausgegossen und er ließ sie in unwegsamer Öde ohne Pfad dahinirren.
+106:41 Doch er half dem Armen aus dem Elende und machte die Geschlechter Schafherden gleich.
+106:42 Es sehen dies die Redlichen und freuen sich und alle Bosheit verschließt ihren Mund.
+106:43 Wer ist weise und beachtet dies und versteht die Erbarmungen des Herrn?
