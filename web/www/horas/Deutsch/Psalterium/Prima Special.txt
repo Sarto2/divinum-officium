@@ -1,10 +1,10 @@
 [Dominica]
 !1 Tim 1,17
-v. Dem König der Ewigkeit, dem Unsterblichen und Unsichtbaren, Gott allein sei Ehre und Ruhm in alle Ewigkeit. Amen.
+v. Dem Könige der Ewigkeit aber, dem unsterblichen, unsichtbaren, alleinigen Gott sei Ehre und Herrlichkeit in alle Ewigkeit! Amen.
 
 [Feria]
 !Sach 8,19
-v. Liebt die Treue und den Frieden, spricht der allmächtige Herr.
+v. Nur liebet Wahrheit und Frieden!, spricht der allmächtige Herr.
 
 [Per Annum]
 !2 Thess 3,5
@@ -24,7 +24,7 @@ v. Alle bis von Saba sollen sie kommen, Gold und Weihrauch bringen, und die Ruhm
 
 [Asc]
 !Acts 1:11
-v. Ye men of Galilee, why stand you looking up to heaven? This Jesus who is taken up from you into heaven, shall so come, as you have seen him going into heaven. 
+v. Ihr Männer von Galiläa! Was stehet ihr und schauet gen Himmel? Dieser Jesus, der von euch weg in den Himmel aufgenommen ist, wird ebenso kommen, wie ihr ihn in den Himmel habt auffahren sehen.
 
 [Quad]
 !Jes 55,6
@@ -36,11 +36,11 @@ v. Mein Antlitz habe ich nicht abgewandt von denen, die mich beschimpften und an
 
 [Pasc]
 !Col 3:1-2
-v. If you be risen with Christ, seek the things that are above; where Christ is sitting at the right hand of God: Mind the things that are above, not the things that are upon the earth. 
+v. Wenn ihr nun mit Christus mit auferstanden seid, so suchet, was droben ist, wo Christus zur Rechten Gottes sitzt. Auf das, was oben ist, lasset euren Sinn gerichtet sein, nicht auf das, was auf Erden ist. 
 
 [Pent]
 !Acts 2:11
-v. Jews also, and Proselytes, Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God.
+v. Juden sowohl wie Bekehrte, Kreter und Araber, wir hören sie in unseren Sprachen die großen Taten Gottes verkündigen.
 
 [Responsory Adv]
 Der du in die Welt kommen willst.
@@ -52,7 +52,7 @@ Der du geboren bist aus Maria der Jungfrau.
 Der du dich heute geoffenbart hast.
 
 [Responsory Pasch]
-Der du auferstanden bist von den toten.
+Der du auferstanden bist von den Toten.
 
 [Responsory Asc]
 Thou that hast gone up above the stars.
