@@ -2,31 +2,31 @@
 v. Vater unser im Himmel, geheiligt werde dein Name, dein Reich komme, dein Wille geschehe, wie im Himmel, so auf Erden.  Unser tägliches Brot gibt uns heute, und vergib uns unsere Schuld, wie auch wir vergeben unseren Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen. Amen.
 
 [Pater_noster1]
-v. Vater unser im Himmel, geheiligt werde dein Name, dein Reich komme, dein Wille geschehe, wie im Himmel, so auf Erden.  Unser tägliches Brot gibt uns heute, und vergib uns unsere Schuld, wie auch wir vergeben unseren Schuldigern.
+v. Vater unser im Himmel, geheiligt werde dein Name, dein Reich komme, dein Wille geschehe, wie im Himmel, so auf Erden.  Unser tägliches Brot gibt uns heute und vergib uns uns're Schuld, wie auch wir vergeben unser'n Schuldigern.
 V. Und führe uns nicht in Versuchung:
 R. Sondern erlöse uns von dem Bösen.
 
 [Ave Maria]
-v. Gegrüßest seist du Maria, voll der Gnade: Der Herr ist mit dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht deines Leibes Jesus.   Heilige Maria, Mutter Gottes, bitte für uns Sünder jetzt und in der Stunde unseres Todes. Amen.
+v. Gegrüßest seist du Maria, voll der Gnade: Der Herr ist mit dir. Du bist gebenedeit unter den Frauen, und gebenedeit ist die Frucht deines Leibes Jesus. Heilige Maria, Mutter Gottes, bitte für uns Sünder jetzt und in der Stunde unseres Todes. Amen.
 
 [Credo]
 v. Ich glaube an Gott, den Vater, den Allmächtigen, den Schöpfer des Himmels und der Erde.
 Und an Jesus Christus, seinen eingeborenen Sohn, unsern Herrn, empfangen durch den Heiligen Geist, geboren von der Jungfrau Maria, gelitten unter Pontius Pilatus, gekreuzigt, gestorben und begraben, hinabgestiegen in das Reich des Todes, am dritten Tage auferstanden von den Toten, aufgefahren in den Himmel; er sitzt zur Rechten Gottes, des allmächtigen Vaters; von dort wird er kommen, zu richten die Lebenden und die Toten.
-Ich glaube an den Heiligen Geist, die heilige katholische Kirche, Gemeinschaft der Heiligen, Vergebung der Sünden, Auferstehung der Toten und das ewige Leben. Amen.
+Ich glaube an den Heiligen Geist, die heilige katholische Kirche, Gemeinschaft der Heiligen, Vergebung der Sünden, Auferstehung des Fleisches und das ewige Leben. Amen.
 
 [Gloria]
-V. Die Ehre sei dem Vater und dem Sohne * und dem Heil'gen Geiste.
-R. So wie sie war im Anfang, sei sie jetzt und immer * und zu ew'gen Zeiten. Amen.
+V. Ehre sei dem Vater und dem Sohn * und dem Heiligen Geist.
+R. Wie im Anfang so auch jetzt und immer * und in Ewigkeit. Amen.
 
 [Gloria1]
-V. Die Ehre sei dem Vater und dem Sohne * und dem Heil'gen Geiste.
+V. Ehre sei dem Vater und dem Sohn * und dem Heiligen Geist.
 
 [Requiem]
 V. Herr, gib ihnen * die ewige Ruhe.
 R. Und das ewige Licht * leuchte ihnen.
 
 [Alleluia]
-v. Alleluja.
+v. Halleluja.
 v. Lob sei dir, Herr, König der ewigen Herrlichkeit.
 
 [Dominus]
@@ -37,71 +37,71 @@ R. Und lass mein Rufen zu dir kommen.
 /:das zweite 'O Herr, erhöre mein Gebet' wird ausgelassen:/
 
 [Confiteor]
-v. Ich gestehe es Gott, dem Allmächtigen, der heiligen, stets unversehrten Jungfrau Maria, dem heiligen Erzengel Michael, dem heiligen Johannes dem Täufer, den heiligen Aposteln Petrus und Paulus und allen Heiligen, dass ich überaus viel gesündigt habe in Gedanken, Worten und Werken, /:man schlägt sich an die Brust:/ durch meine Schuld, durch meine Schuld, durch meine große Schuld. Deshalb flehe ich an die heilige, stets unversehrte Jungfrau Maria, den heiligen Erzengel Michael, den heiligen Johannes den Täufer, die heiligen Apostel Petrus und Paulus und alle Heiligen, für mich zu bitten bei dem Herrn, unserem Gott.
+v. Ich bekenne Gott, dem Allmächtigen, der seligen, allzeit reinen Jungfrau Maria, dem heiligen Erzengel Michael, dem heiligen Johannes dem Täufer, den heiligen Aposteln Petrus und Paulus und allen Heiligen, dass ich viel gesündigt habe in Gedanken, Worten und Werken: durch meine Schuld, durch meine Schuld, durch meine große Schuld. Darum bitte ich die selige, allzeit reine Jungfrau Maria, den heiligen Erzengel Michael, den heiligen Johannes den Täufer, die heiligen Apostel Petrus und Paulus und alle Heiligen, für mich zu beten bei Gott, unserem Herrn.
 
 [Misereatur]
-v. Es erbarme sich unser der allmächtige Gott und vergebe uns unsere Sünden und führe uns zum ewigen Leben. Amen.
+v. Der allmächtige Gott erbarme sich unser; er lasse uns die Sünden nach und führe uns zum ewigen Leben. Amen.
 
 [Indulgentiam]
-v. Milde, Nachsicht, + Lossprechung und Nachlassung unserer Sünden gewähre uns der allmächtige und barmherzige Gott. Amen.
+v. Nachlass, Vergebung + und Verzeihung unserer Sünden gewähre uns der allmächtige und barmherzige Herr. Amen.
 
 [Domine labia]
-V. O Herr, du wollest ++ meine Lippen auftun.
-R. Damit mein Mund dein Lob verkünde.
+V. Herr, ++ öffne meine Lippen.
+R. Damit mein Mund Dein Lob verkünde.
 
 [Deus in adjutorium]
 V. O Gott, + sei nun bedacht drauf, mir zu helfen.
 R. O Herr, beeile dich, mir beizustehen.
 
 [Deus in adiutorium]
-V. O Gott, + sei nun bedacht drauf, mir zu helfen.
-R. O Herr, beeile dich, mir beizustehen.
+V. O Gott, + komm mir zu Hilfe.
+R. Herr, eile, mir zu helfen.
 
 [Tu autem]
-V. Du aber, o Herr, sei uns gnädig.
-R. Gott sei Dank gesagt.
+V. Du aber, o Herr, erbarme Dich unser.
+R. Dank sei Gott, dem Herrn.
 
 [Benedicamus Domino]
-V. Wir wollen den Herrn preisen.
-R. Und sagen ihm unsern Dank.
+V. Singet Lob und Preis.
+R. Dank sei Gott, dem Herrn.
 
 [Benedicamus Domino1]
-V. Wir wollen den Herrn preisen, alleluja, alleluja.
-R. Und sagen ihm unsern Dank, alleluja, alleluja.
+V. Singet Lob und Preis, halleluja, halleluja.
+R. Dank sei Gott, dem Herrn, halleluja, halleluja.
 
 [Deo gratias]
-R. Gott sei Dank gesagt.
+R. Dank sei Gott dem Herrn.
 
 [Fidelium animae]
-V. Die Seelen der Verstorbenen mögen auf Grund der Barmherzigkeit Gottes zur Ruhe im Frieden gelangen.
+V. Die Seelen der verstorbenen Christen mögen durch die Barmherzigkeit Gottes in Frieden ruhen.
 R. Amen.
 
 [Per Dominum]
-r. Im Hinblick auf unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und regiert in Gemeinschaft mit dem Heiligen Geiste als Gott von Ewigkeit zu Ewigkeit.
+r. Durch unseren Herrn Jesus Christus, deinen Sohn, der in der Einheit des Heiligen Geistes mit Dir lebt und herrscht, Gott, von Ewigkeit zu Ewigkeit.
 R. Amen.
 
 [Per Dominum eiusdem]
-r. Im Hinblick auf unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und regiert in Gemeinschaft mit demselben Heiligen Geiste als Gott von Ewigkeit zu Ewigkeit.
+r. Durch unseren Herrn Jesus Christus, deinen Sohn, der in der Einheit dieses Heiligen Geistes mit Dir lebt und herrscht, Gott, von Ewigkeit zu Ewigkeit.
 R. Amen.
 
 [Qui cum Patre]
-r. Der du lebst und regierst mit dem Vater und dem Heiligen Geiste als Gott von Ewigkeit zu Ewigkeit.
+r. Der Du in der Einheit des Heiligen Geistes mit Gott dem Vater lebst und herrschest, Gott, von Ewigkeit zu Ewigkeit.
 R. Amen.
 
 [Per eumdem]
-r. Im Hinblick auf denselben unsern Herrn Jesus Christus, deinen Sohn, der mit dir lebt und regiert in Gemeinschaft mit dem Heiligen Geiste als Gott von Ewigkeit zu Ewigkeit.
+r. Darum bitten wir durch ihn, Jesus Christus, deinen Sohn, unseren Herrn, der in der Einheit des Heiligen Geistes mit Dir lebt und herrscht, Gott, von Ewigkeit zu Ewigkeit.
 R. Amen.
 
 [Qui vivis]
-r. Der du lebst und regierst mit Gott dem Vater gemeinsam mit dem Heiligen Geiste als Gott in alle Ewigkeit.
+r. Der Du lebst und herrschest mit Gott Vater in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit.
 R. Amen.
 
 [Qui tecum]
-r. Der mit dir lebt und regiert gemeinsam mit dem Heiligen Geiste als Gott in alle Ewigkeit.
+r. Der mit Dir lebt und herrscht in der Einheit des Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit.
 R. Amen.
 
 [Qui tecum eiusdem]
-r. Der mit dir lebt und regiert gemeinsam mit demselben Heiligen Geiste als Gott in alle Ewigkeit.
+r. Der mit Dir lebt und herrscht in der Einheit dieses Heiligen Geistes, Gott, von Ewigkeit zu Ewigkeit.
 R. Amen.
 
 [Te Deum]
@@ -141,19 +141,19 @@ Auf dich, Herr, will ich hoffen; *drum geh' ich ewig nicht zugrunde.
 
 [Ante]
 /:kniend:/
-v. Öffne doch, o Herr, meinen Mund zum Preise deiner heiligen Majestät, mache auch mein Herz rein von allen ungehörigen, verkehrten und störenden Gedanken; erleuchte den Verstand, bring zum Glühen die Gefühle des Herzens, damit ich imstande bin, recht aufmerksam und andächtig dieses Stundengebet zu verrichten und der Erhörung würdig werde vor den Augen deiner göttlichen Majestät. Durch Christus unseren Herrn.
+v. Öffne, Herr, meinen Mund, Deinen heiligen Namen zu preisen. Reinige auch mein Herz von allen eitlen, verkehrten und ungehörigen Gedanken. Erleuchte den Verstand, entzünde das Gemüt, damit ich würdig, aufmerksam und andächtig dieses Gotteslob verrichte und von Deiner göttlichen Majestät erhört zu werden verdiene. Durch Christus, unseren Herrn.
 R. Amen.
-v. O Herr, in Vereinigung mit jener Gottes würdigen Absicht, in der du selbst Gott auf Erden Lob dargebracht hast, bringe ich dir diese Stunde (Stunden) dar.
+v. O Herr, in Vereinigung mit jener göttlichen Gesinnung, mit der Du selbst auf Erden Gott Lob dargebracht hast, will ich Dir zu Ehren diese Tagzeiten (oder Tagzeit) verrichten.
 
 [Post]
-v. Der hochheiligen und ungeteilten Dreifaltigkeit, unserem menschgewodenen gekreuzigten Herrn Jesus Christus, der ohne Verletzung Mutter gewordenen heiligen und glorreichen stets unversehrten Jungfrau Maria und den gesamten Heiligen sei immerwährendes Lob, Ehre, Siegsgesang und Ruhm von allen Geschöpfen und uns die Nachlassung aller Sünde, hindurch durch die unendliche Ewigkeit.
+v. Der allerheiligsten und unteilbaren Dreifaltigkeit, der Menschheit unseres gekreuzigten Herrn Jesus Christus, der fruchtbaren Unversehrtheit der seligsten, glorreichen und allzeit reinen Jungfrau Maria und allen Heiligen zusammen sei immerdar Lob, Ehre, Macht und Verherrlichung von jedem Geschöpfe, uns aber Verzeihung aller Sünden durch die unendliche Ewigkeit.
 R. Amen.
 _
-V. Selig ist der Schoß der Jungfrau Maria, der getragen hat des ewigen Vaters Sohn.
-R. Und selig die Brust, die genährt hat Christus den Herrn.
+V. Selig der Schoß der Jungfrau Maria, der getragen hat des ewigen Vaters Sohn.
+R. Und selig die Brust, die genährt hat Christus, den Herrn.
 _
 r. Vater unser.
-r. Gegrüßet seist du.
+r. Gegrüßet seist du, Maria.
 
 [Conclmart]
 V. Et álibi aliórum plurimórum sanctórum Mártyrum et Confessórum, atque sanctárum Vírginum.
@@ -173,15 +173,15 @@ $Deo gratias
 v. Lasset uns beten.
 
 [Te decet]
-v. Te décet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spíritu Sancto in sǽcula sæculórum. Amen.
+v. Dir gebührt unser Lob, + dir unser rühmendes Lied! Dir, o Gott, sei Ehre und Ruhm: dem Vater und dem Sohne und dem Heiligen Geiste, jetzt und immer und in Ewigkeit. Amen.
 
 [MLitany]
-v. Kyrie eléison. Christe, eléison. Kyrie, eléison.
+v. Herr, erbarme dich unser. Christus, erbarme dich unser. Herr, erbarme dich unser.
 &pater_noster
 
 [Alleluia Simplex]
-, alleluja.
+, halleluja.
 
 [Alleluia Duplex]
-Alleluja, alleluja.
+Halleluja, halleluja.
 
