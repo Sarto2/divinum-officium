@@ -26,8 +26,8 @@ R. Als dein Gewand hast du, o Herr, die Allmacht umgelegt und dich mit Kraft umg
 
 [Day0 Laudes2]
 !1 Cor 9:24
-v. Fratres: Nescitis, quod ii, qui in stadio currunt, omnes quidem currunt, sed unus áccipit bravium? Sic currite, ut comprehendatis.
-$Deo gratias
+v. Brüder: Wisset ihr nicht, dass die, welche in der Rennbahn laufen, zwar alle laufen, aber nur einer erlangt den Preis? Laufet so, dass ihr ihn erlanget!
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day0 Laudes2]
 {:H-Aeternererum:}v. O Ew'ger, der du schufst das All,
@@ -82,8 +82,8 @@ R. Durch alle Zeiten und Geschlechter.
 
 [Day0 Vespera]
 !2 Kor 1,3-4
-v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
-$Deo gratias
+v. Gepriesen sei Gott und der Vater unseres Herrn Jesus Christus, der Vater der Erbarmungen, und der Gott allen Trostes, der uns tröstet in aller unserer Trübsal.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day0 Vespera]
 {:H-Luciscreator:}v. O güt'ger Schöpfer du des Lichts,
@@ -113,13 +113,13 @@ Zugleich regiert auf ew'gem Thron.
 Amen.
 
 [Day0 Versum 3]
-V. Mag mein Gebet zur Höhe steigen, o Herr.
-R. Vor dir wie Weihrauchwolken.
+V. Aufsteige mein Gebet, o Herr.
+R. Wie Weihrauch vor Dein Angesicht.
 
 [Day1 Laudes]
 !Röm 13,12-13
-v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
-$Deo gratias
+v. Die Nacht ist vorgerückt, der Tag aber hat sich genaht; lasset uns also die Werke der Finsternis ablegen und die Waffen des Lichtes anziehen! Wie am Tage lasset uns ehrbar wandeln.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day1 Laudes]
 {:H-LaudsFeria:}v. O Glanz der Vaterherrlichkeit,
@@ -174,8 +174,8 @@ R. Gejubelt und genossen große Freude.
 
 [Day1 Vespera]
 !2 Kor 1,3-4
-v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung, und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
-$Deo gratias
+v. Gepriesen sei Gott und der Vater unseres Herrn Jesus Christus, der Vater der Erbarmungen, und der Gott allen Trostes, der uns tröstet in aller unserer Trübsal.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day1 Vespera]
 {:H-VespFeria:}v. O großer Himmelsbildner du,
@@ -205,39 +205,39 @@ Zugleich regiert auf ew'gem Thron.
 Amen.
 
 [Day1 Versum 3]
-V. Mag mein Gebet, o Herr, zur Höhe steigen.
-R. Vor dir wie Weihrauchwolken.
+V. Aufsteige mein Gebet, o Herr.
+R. Wie Weihrauch vor Dein Angesicht.
 
 [Day2 Laudes]
 !Röm 13,12-13
-v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
-$Deo gratias
+v. Die Nacht ist vorgerückt, der Tag aber hat sich genaht; lasset uns also die Werke der Finsternis ablegen und die Waffen des Lichtes anziehen! Wie am Tage lasset uns ehrbar wandeln.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day2 Laudes]
-{:H-LaudsFeria:}v. Ales diei nuntius
-Lucem propinquam præcinit:
-Nos excitator méntium
-Jam Christus ad vitam vocat.
+{:H-LaudsFeria:}v. Der geflügelte Bote des Tages
+Verkündet das nahende Licht;
+Uns ruft nun Christus,
+Der Erwecker der Geister, zum Leben.
 _
-Auferte, clamat, lectulos,
-Ægro sopore desides:
-Castique, recti, ac sóbrii
-Vigiláte, jam sum próximus.
+Hebet auf, so ruft er, die Ruhestätten,
+Ihr Müßigen vom trägen Schlaf:
+Wachet auf rein, heilig und nüchtern,
+Schon bin ich ganz nahe.
 _
-Jesum ciamus vócibus,
-Flentes, precantes, sóbrii:
-Inténta supplicatio
-Dormire cor mundum vetat.
+Laßt uns Jesus laut anrufen,
+Weinend, flehend und nüchtern:
+Das innige Gebet hält
+Das reine Herz vom Schlafe ab.
 _
-Tu, Christe, somnum discute:
-Tu rumpe noctis víncula:
-Tu solve peccátum vetus,
-Novumque lumen ingere.
+O Christus, verscheuche du den Schlaf,
+Zerbrich die Fesseln der Nacht,
+Mache uns frei von der alten Schuld
+Und flöße neues Licht uns ein.
 _
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sæculum.
+Ruhm sei Gott dem Vater
+Und seinem einzigen Sohne,
+Samt dem heiligen Geist, dem Tröster,
+Jetzt und in alle Ewigkeit.
 Amen.
 
 [Day2 Versum 2]
@@ -246,70 +246,70 @@ R. Gejubelt und genossen große Freude.
 
 [Day2 Vespera]
 !2 Kor 1,3-4
-v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung, und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
-$Deo gratias
+v. Gepriesen sei Gott und der Vater unseres Herrn Jesus Christus, der Vater der Erbarmungen, und der Gott allen Trostes, der uns tröstet in aller unserer Trübsal.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day2 Vespera]
-{:H-VespFeria:}v. Telluris alme Conditor,
-Mundi solum qui separans,
-Pulsis aquæ molestiis,
-Terram dedísti immobilem:
+{:H-VespFeria:}v. Des Erdballs Schöpfer, groß und hehr,
+Der abgeschieden Land und Meer,
+Und in sein Bett die Flut gebannt,
+Dass fest und sicher sei das Land.
 _
-Ut germen aptum proferens,
-Fulvis decora floribus,
-Fcúnda fructu sisteret,
-Pastumque gratum rédderet.
+Damit der Pflanze Keim erwacht,
+Und bunter Blüten Farbenpracht,
+Dass es an süßen Früchten reich
+Und duft'gen Matten, sanft und weich.
 _
-Mentis perustæ vúlnera
-Munda virore grátiæ:
-Ut facta fletu diluat,
-Motusque pravos atterat.
+Ach, unser Herz, verderbt und wund,
+Mach durch der Gnade Tau gesund
+Und tilge alle sünd'ge Lust
+Und böse Tat in uns'rer Brust.
 _
-Jussis tuis obtémperet:
-Nullis malis approximet:
-Bonis repleri gaudeat,
-Et mortis ictum nesciat.
+Erhalte treu mich dem Gebot
+Und frei von allem Leid und Not,
+Erfreue mich mit Gütern hier,
+Und nimm des Todes Kelch von mir!
 _
-Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sæculum.
+Allgüt'ger Vater auf dem Thron,
+Und Du, ihm gleich, Du einiger Sohn,
+Du Heil'ger Geist, des Trostes Hort
+O, bleib uns gnädig fort und fort!
 Amen.
 
 [Day2 Versum 3]
-V. Mag mein Gebet zur Höhe steigen, o Herr.
-R. Vor dir wie Weihrauchwolken.
+V. Aufsteige mein Gebet, o Herr.
+R. Wie Weihrauch vor Dein Angesicht.
 
 [Day3 Laudes]
 !Röm 13,12-13
-v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
-$Deo gratias
+v. Die Nacht ist vorgerückt, der Tag aber hat sich genaht; lasset uns also die Werke der Finsternis ablegen und die Waffen des Lichtes anziehen! Wie am Tage lasset uns ehrbar wandeln.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day3 Laudes]
-{:H-LaudsFeria:}v. Nox, et tenebrae, et nubila,
-Confusa mundi et turbida:
-Lux intrat, albescit polus:
-Christus venit: discédite.
+{:H-LaudsFeria:}v. Der Wolken Dunkel, finstre Nacht,
+Umhüllt die Welt, das Licht erwacht,
+Sieh, wie der ferne Pol erbleicht,
+Denn Christus naht: Ihr Schatten, weicht!
 _
-Calígo terræ scinditur
-Percússa solis spiculo,
-Rebúsque jam color redit,
-Vultu nitentis síderis.
+Der Nebel, der auf Erden ruht,
+Zerreißet vor der Sonne Glut,
+Und neuer Farben Fülle schafft
+Des Glanzgestirnes Wunderkraft.
 _
-Te, Christe, solum novimus:
-Te mente pura et simplici,
-Flendo et canendo quæsumus,
-Inténde nostris sénsibus.
+Dich, Christus, kennen wir allein,
+Und unser Herze, keusch und rein,
+In Sang und Tränen sucht nur Dich,
+Schirm unser Tun Du gnädiglich!
 _
-Sunt multa fucis illita,
-Quæ luce purgentur tua:
-Tu, vera lux cæléstium,
-Vultu sereno illúmina.
+So mancher Dinge falschen Schein
+Enthüllt Dein Strahlenglanz allein,
+Erleucht' uns, wahres Himmelslicht,
+Mit Deinem holden Angesicht!
 _
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sæculum.
+Lob sei dem Vater auf dem Thron
+Und seinem eingebor'nen Sohn,
+Und ihm, dem Heil'gen Geist, geweiht
+Jetzt und in alle Ewigkeit!
 Amen.
 
 [Day3 Versum 2]
@@ -318,70 +318,70 @@ R. Gejubelt und genossen große Freude.
 
 [Day3 Vespera]
 !2 Kor 1,3-4
-v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung, und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
-$Deo gratias
+v. Gepriesen sei Gott und der Vater unseres Herrn Jesus Christus, der Vater der Erbarmungen, und der Gott allen Trostes, der uns tröstet in aller unserer Trübsal.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day3 Vespera]
-{:H-VespFeria:}v. Caeli Deus sanctissime,
-Qui lucidas mundi plagas
-Candóre pingis igneo,
-Augens decoro lúmine:
+{:H-VespFeria:}v. Allheil'ger Du im Himmelsraum,
+Der dieser Erde fernsten Saum
+In Glutenfarben eingetaucht,
+Vom ros'gen Schimmer überhaucht.
 _
-Quarto die qui flammeam
-Dum solis accendis rotam,
-Lunæ ministras órdinem,
-Vagosque cursus siderum:
+Und an dem vierten Tage drauf
+Der Sonne ihren Feuerlauf
+Gezeichnet und dem Mond die Bahn
+Und allen Sternen wiesest an.
 _
-Ut nóctibus, vel lumini
-Diremptionis términum,
-Primordiis et mensium
-Signum dares notissimum;
+Damit sich Nacht- und Tageslicht
+In stetem Wechsel unterbricht,
+Und Monats Anfang und Beschluss
+Nach deinem Willen regeln muss:
 _
-Expélle noctem córdium:
-Absterge sordes méntium:
-Resolve culpæ vinculum:
-Everte moles criminum.
+O, banne uns'res Herzens Nacht
+Und was den Geist noch unrein macht,
+Tilg alle Schuld, die uns erfasst,
+Und lös uns von der Sünden Last.
 _
-Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sæculum.
+Allgüt'ger Vater auf dem Thron,
+Und Du, ihm gleich, Du einiger Sohn,
+Du Heil'ger Geist, des Trostes Hort
+O, bleib uns gnädig fort und fort!
 Amen.
 
 [Day3 Versum 3]
-V. Mag mein Gebet zur Höhe steigen, o Herr.
-R. Vor dir wie Weihrauchwolken.
+V. Aufsteige mein Gebet, o Herr.
+R. Wie Weihrauch vor Dein Angesicht.
 
 [Day4 Laudes]
 !Röm 13,12-13
-v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
-$Deo gratias
+v. Die Nacht ist vorgerückt, der Tag aber hat sich genaht; lasset uns also die Werke der Finsternis ablegen und die Waffen des Lichtes anziehen! Wie am Tage lasset uns ehrbar wandeln.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day4 Laudes]
-{:H-LaudsFeria:}v. Lux ecce surgit aurea,
-Pallens facessat cæcitas,
-Quæ nosmet in præceps diu
-Errore traxit devio.
+{:H-LaudsFeria:}v. Es steigt des Lichtes gold'ner Strahl,
+Und scheucht die Blindheit, bleich und fahl,
+Die lang', in Irrwahn uns versenkt,
+Vom rechten Wege abgelenkt.
 _
-Hæc lux serenum conferat,
-Purosque nos præstet sibi:
-Nihil loquamur subdolum:
-Volvamus obscúrum nihil.
+Dies Licht mit seinem hellen Schein
+Mach' unser Herz von Sünden rein,
+Der Lüge Feind, der Wahrheit Freund,
+Dass es stets hell und klar erscheint.
 _
-Sic tota decúrrat dies,
-Ne lingua mendax, ne manus
-Oculive peccent lubrici,
-Ne noxa corpus ínquinet.
+So fließe hin der ganze Tag,
+Wahr sei der Mund, der Sünde Schmach
+Beflecke weder Hand noch Blick,
+Dass Schaden nicht den Leib umstrick'!
 _
-Speculator astat désuper,
-Qui nos diébus ómnibus,
-Actusque nostros próspicit
-A luce prima in vésperum.
+Gott droben hält ob Aller Wacht,
+Er sieht bei Tage und bei Nacht
+All unser Sinnen, unser Tun,
+Vom Morgenlicht bis wenn wir ruh'n!
 _
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sæculum.
+Lob sei dem Vater auf dem Thron
+Und seinem eingebor'nen Sohn,
+Und ihm, dem Heil'gen Geist, geweiht
+Jetzt und in alle Ewigkeit!
 Amen.
 
 [Day4 Versum 2]
@@ -390,75 +390,75 @@ R. Gejubelt und genossen große Freude.
 
 [Day4 Vespera]
 !2 Kor 1,3-4
-v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung, und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
-$Deo gratias
+v. Gepriesen sei Gott und der Vater unseres Herrn Jesus Christus, der Vater der Erbarmungen, und der Gott allen Trostes, der uns tröstet in aller unserer Trübsal.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day4 Vespera]
-{:H-VespFeria:}v. Magnae Deus potentiae,
-Qui fertili natos aqua
-Partim relinquis gurgiti,
-Partim levas in aëra.
+{:H-VespFeria:}v. Gott, der in seiner Allmacht groß
+Befruchtend einst der Wogen Schoß,
+Die Tiere schufest für das Meer
+Und für den Äther ringsumher.
 _
-Demersa lymphis imprimens,
-Subvecta cælis érigens:
-Ut stirpe ab una pródita,
-Divérsa repleant loca:
+Der Fisch durchmisst die nasse Gruft,
+Der Vogel wiegt sich in der Luft;
+Was einem Schoß entsprungen kaum,
+Belebt so ganz verschied'nen Raum.
 _
-Largire cunctis sérvulis,
-Quos mundat unda Sánguinis,
-Nescíre lapsus criminum,
-Nec ferre mortis tædium.
+Schenk allen Dienern Deine Huld,
+Dein Blutstrom tilge alle Schuld
+Und alle Fehl vom Sündenfall
+Und auch des Todes Schmerzen all:
 _
-Ut culpa nullum deprimat:
-Nullum efferat jactantia:
-Elisa mens ne concidat:
-Elata mens ne corruat.
+Dass niemand von der Schuld erdrückt,
+Von Hoffart niemand sei berückt,
+Das Herz in Kleinmut nicht erstirbt,
+Das Herz in Hochmut nicht verdirbt.
 _
-Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sæculum.
+Allgüt'ger Vater auf dem Thron,
+Und Du, ihm gleich, Du einiger Sohn,
+Du Heil'ger Geist, des Trostes Hort
+O, bleib uns gnädig fort und fort!
 Amen.
 
 [Day4 Versum 3]
-V. Mag mein Gebet zur Höhe steigen, o Herr.
-R. Vor dir wie Weihrauchwolken.
+V. Aufsteige mein Gebet, o Herr.
+R. Wie Weihrauch vor Dein Angesicht.
 
 [Day5 Laudes]
 !Röm 13,12-13
-v. Die Nacht ist vorüber, das Tageslicht ist nahe gekommen. Drum wollen wir ablegen die Werke, die die Finsternis suchen und die Ausstattung anlegen, die zum hellen Tage passt. Wie es dem hellen Tageslicht zukommt, so wollen wir uns wohlanständig bewegen.
-$Deo gratias
+v. Die Nacht ist vorgerückt, der Tag aber hat sich genaht; lasset uns also die Werke der Finsternis ablegen und die Waffen des Lichtes anziehen! Wie am Tage lasset uns ehrbar wandeln.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day5 Laudes]
-{:H-LaudsFeria:}v. Aeterna caeli gloria,
-Beáta spes mortálium,
-Summi Tonantis Únice,
-Castæque proles Vírginis:
+{:H-LaudsFeria:}v. O du, des Himmels Zier und Kron',
+Du Hoffnungsstern dem Erdensohn,
+Des Gottes, der in Wettern groß,
+Der keuschen Jungfrau einz'ger Spross.
 _
-Da déxteram surgentibus,
-Exsúrgat et mens sobria,
-Flagrans et in laudem Dei
-Grates rependat débitas.
+Reich' beim Erwachen uns die Hand,
+Dass laut'rer sich der Geist entbrannt
+Für dich, und Gottes Lobes voll
+Aufschwingt und bringt des Dankes Zoll.
 _
-Ortus refúlget Lucifer,
-Præitque solem núntius:
-Cadunt ténebræ noctium:
-Lux sancta nos illúminet.
+Der Morgenstern am Himmel lacht,
+Verkündend, dass der Tag erwacht;
+Die Nacht versinkt, das Dunkel bricht:
+O zünd' in uns dein heilig Licht!
 _
-Manensque nostris sénsibus,
-Noctem repellat sæculi,
-Omníque fine témporis
-Purgata servet pectora.
+Treib' alle Erdenmacht hinaus,
+Und wohn' in uns'res Herzens Haus,
+Und halte bis ans End' der Zeit
+Die reine Brust von Schuld befreit.
 _
-Quæsíta jam primum fides
-In corde radíces agat:
-Secúnda spes congaudeat,
-Qua major exstat cáritas.
+Vor aller allem aber, Herr! Erstark
+Im Glauben uns'res Herzens Mark:
+Im Hoffen gib uns Freudigkeit,
+Im Lieben Überschwenglichkeit!
 _
-Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sæculum.
+Lob sei dem Vater auf dem Thron
+Und seinem eingebor'nen Sohn,
+Und ihm, dem Heil'gen Geist, geweiht
+Jetzt und in alle Ewigkeit!
 Amen.
 
 [Day5 Versum 2]
@@ -467,39 +467,39 @@ R. Gejubelt und genossen große Freude.
 
 [Day5 Vespera]
 !2 Kor 1,3-4
-v. Gepriesen sei Gott, der Vater unseres Herrn Jesus Christus, der Urheber aller Erbarmung, und der Gott, der allen Trost in sich birgt, der uns in aller unserer Bedrängnis tröstet.
-$Deo gratias
+v. Gepriesen sei Gott und der Vater unseres Herrn Jesus Christus, der Vater der Erbarmungen, und der Gott allen Trostes, der uns tröstet in aller unserer Trübsal.
+$Dank sei Gott, dem Herrn.
 
 [Hymnus Day5 Vespera]
-{:H-VespFeria:}v. Hominis superne Conditor,
-Qui cuncta solus ordinans,
-Humum jubes producere
-Reptantis et feræ genus:
+{:H-VespFeria:}v. Urew'ger, der den Menschen schuf,
+Und Welten lenkt durch seinen Ruf,
+Der aus der Erde einst gezeugt
+Von Tieren, was da kreucht und fleucht.
 _
-Et magna rerum córpora,
-Dictu jubentis vivida,
-Per témporum certas vices
-Obtemperare sérvulis:
+Der alle Werke der Natur
+Belebt mit seinem Winke nur,
+Und durch der Zeiten Wechselgang
+Dem Menschen sie zu Diensten zwang.
 _
-Repelle, quod cupidinis
-Ciente vi nos impetit,
-Aut móribus se suggerit,
-Aut áctibus se interserit.
+O halte sündige Begier,
+Die mich beschleichen will, von mir,
+Wo sie sich in mein Wollen drängt
+Und in mein Tun und Wandeln mengt!
 _
-Da gaudiórum præmia,
-Da gratiárum múnera:
-Dissolve litis víncula:
-Astringe pacis fdera.
+Des Himmels Glück, der Gnaden Heil
+Es werde mir durch Dich zu Teil,
+Die Zwietracht löse Deine Hand
+Und festige des Friedens Band!
 _
-Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sæculum.
+Allgüt'ger Vater auf dem Thron,
+Und Du, ihm gleich, Du einiger Sohn,
+Du Heil'ger Geist, des Trostes Hort
+O, bleib uns gnädig fort und fort!
 Amen.
 
 [Day5 Versum 3]
-V. Mag mein Gebet zur Höhe steigen, o Herr.
-R. Vor dir wie Weihrauchwolken.
+V. Aufsteige mein Gebet, o Herr.
+R. Wie Weihrauch vor Dein Angesicht.
 
 [Day6 Laudes]
 !Röm 13,12-13
